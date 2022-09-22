@@ -20,6 +20,8 @@ executada, ela deve imprimir em
 console o sentido que o carro está
 passando. Só pode passar um carro
 por vez no cruzamento.
+
+
 ![image](https://user-images.githubusercontent.com/88805304/191768406-0d7ef1f7-bcda-48cf-bf18-84bd9a6433b3.png)
 
 
